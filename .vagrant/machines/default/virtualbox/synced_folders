@@ -1,1 +1,1 @@
-{"virtualbox":{"/var/www":{"mount_options":["dmode=777","fmode=666","uid=1000","gid=1000"],"guestpath":"/var/www","hostpath":"C:/Users/joshu/OneDrive - James Cook University/CP3402 Content Management Systems/Assignment 2/2020-sp1-project-cp3402-2020-team24","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/var/www":{"mount_options":["dmode=777","fmode=666","uid=1000","gid=1000"],"guestpath":"/var/www","hostpath":"C:/Users/jan_d/cp3402-students/2020-sp1-cp3402-2020-team24","disabled":false,"__vagrantfile":true}}}
